@@ -32,3 +32,4 @@ To https://github.com/chanchoyhoong/datasciencecoursera.git
 chancho@CHANCHO8 ~/Desktop/DS/cch (master)
 $
 
+now test git pull 17 June 2015 11:04am KL (GMT+8)
